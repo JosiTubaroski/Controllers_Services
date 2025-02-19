@@ -45,5 +45,9 @@ No <b>.NET 8</b>, o <b>Repository Pattern</b> é amplamente utilizado em conjunt
 
 <img src="https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/01_Pasta_Services.png"/>
 
+- Dentro da Pasta Services, criar a pasta Autor
+
+<img src="https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/02_Pasta_Autor.png"/>
+
 
 
