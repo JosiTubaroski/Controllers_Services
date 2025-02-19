@@ -49,5 +49,11 @@ No <b>.NET 8</b>, o <b>Repository Pattern</b> é amplamente utilizado em conjunt
 
 <img src="https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/02_Pasta_Autor.png"/>
 
+- Criar a classe AutorService.cs
 
+ <img src="https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/03_AutorService.png"/> 
+
+- Criar a Interface IAutorInface.cs
+
+<img src="https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/04_InterfaceAutor.png"/>
 
