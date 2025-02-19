@@ -5,8 +5,6 @@
 <p><a href="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server">Home</a></p>
 </div> 
 
-## Repository Pattern
-
 O Repository Pattern é um <b>conceito</b> de design de software usado para <b>abstrair a camada de acesso a dados</b>, proporcionando uma maneira mais organizada e desacoplada de interagir com o banco de dados.
 
 ### 🔹 Como surgiu?
