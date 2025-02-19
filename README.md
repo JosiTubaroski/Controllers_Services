@@ -57,3 +57,4 @@ No <b>.NET 8</b>, o <b>Repository Pattern</b> é amplamente utilizado em conjunt
 
 <img src="https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/04_InterfaceAutor.png"/>
 
+<img src="https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/05_Menu_Interface.png"/>
