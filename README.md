@@ -40,5 +40,12 @@ No <b>.NET 8</b>, o <b>Repository Pattern</b> é amplamente utilizado em conjunt
 - MVC → Organização da estrutura geral da aplicação
 
  Os dois podem ser usados juntos! O MVC define a estrutura geral da aplicação, e dentro do Model, podemos usar o Repository Pattern para lidar com os dados de forma desacoplada.
-  
+
+### Continuando com o código
+
+- Criar a pasta Services
+
+<img src="https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/01_Pasta_Services.png"/>
+
+
 
