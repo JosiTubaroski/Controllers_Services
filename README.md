@@ -102,5 +102,28 @@ Aqui, importamos:
 
 - ResponseModel<T> é um modelo genérico que encapsula o retorno (dados, status, mensagens).
 
-2.
+2. Busca todos os autores no banco de dados:
+
+<img src="https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/13_BuscaAutores.png"/>
+
+- ToListAsync() retorna todos os registros da tabela Autores de forma assíncrona.
+
+3. Atribui os dados ao modelo de resposta:
+
+<img src="https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/14_RespostaAutores.png"/>
+
+- resposta.Dados recebe a lista de autores.
+- resposta.Mensagem informa que os dados foram recuperados com sucesso.
+
+4. Tratamento de erros:
+
+<img src="https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/15_Tratamento_Erro.png"/>
    
+- Se ocorrer um erro, captura a exceção e adiciona a mensagem no ResponseModel.
+
+# Resumo Final
+
+- ✅ AutorService é um serviço responsável pela manipulação de autores no banco de dados.
+- ✅ Usa Entity Framework Core para acessar os dados.
+- ✅ Lista todos os autores
+- ✅ Retorna um modelo de resposta genérico (ResponseModel<T>) para padronizar as respostas.
