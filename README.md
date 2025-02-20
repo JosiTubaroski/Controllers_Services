@@ -93,3 +93,14 @@ Aqui, importamos:
 #### ✅ ListarAutores()
 
 <img src="https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/11_Lista_Autores.png"/>
+
+#### 🔹 Explicação:
+
+1. Criação do objeto resposta:
+
+<img src="https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/12_Criar_Objeto_Resposta.png"/>
+
+- ResponseModel<T> é um modelo genérico que encapsula o retorno (dados, status, mensagens).
+
+2.
+   
