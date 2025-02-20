@@ -91,3 +91,5 @@ Aqui, importamos:
 - Deve futuramente buscar um autor com base no ID do livro.
 
 #### ✅ ListarAutores()
+
+<img src="https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/11_Lista_Autores.png"/>
