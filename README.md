@@ -11,10 +11,10 @@ A principal finalidade dos Services é criar uma camada intermediária entre os 
 
 ### Principais finalidades dos Services no .NET 8
 
-✔ Separação de responsabilidades – Evita que os Controllers fiquem sobrecarregados com lógica de negócio.
-✔ Reutilização de código – A mesma lógica pode ser utilizada em diferentes partes da aplicação.
-✔ Facilidade de teste (Testabilidade) – Como os Services são separados, fica mais fácil criar testes unitários sem depender de Controllers ou do banco de dados diretamente.
-✔ Facilidade na manutenção e escalabilidade – Mantém o código modular e organizado.
+<p>✔ Separação de responsabilidades – Evita que os Controllers fiquem sobrecarregados com lógica de negócio.</p>
+<p>✔ Reutilização de código – A mesma lógica pode ser utilizada em diferentes partes da aplicação.</p>
+<p>✔ Facilidade de teste (Testabilidade) – Como os Services são separados, fica mais fácil criar testes unitários sem depender de Controllers ou do banco de dados diretamente.</p>
+<p>✔ Facilidade na manutenção e escalabilidade – Mantém o código modular e organizado.</p>
 
 
 - Criar a pasta Services
