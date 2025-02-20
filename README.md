@@ -3,7 +3,19 @@
 </div> 
 
 
-### Continuando com o código
+### Qual a finalidade do Services em .NET8?
+
+No .NET 8, os Services são classes usadas para organizar a lógica de negócios da aplicação, separando responsabilidades e facilitando a manutenção do código. Eles geralmente contêm regras de negócio e interagem com Repositórios (Repository Pattern) para acessar os dados.
+
+A principal finalidade dos Services é criar uma camada intermediária entre os Controllers (ou endpoints da API) e os Repositórios ou outras fontes de dados.
+
+### Principais finalidades dos Services no .NET 8
+
+✔ Separação de responsabilidades – Evita que os Controllers fiquem sobrecarregados com lógica de negócio.
+✔ Reutilização de código – A mesma lógica pode ser utilizada em diferentes partes da aplicação.
+✔ Facilidade de teste (Testabilidade) – Como os Services são separados, fica mais fácil criar testes unitários sem depender de Controllers ou do banco de dados diretamente.
+✔ Facilidade na manutenção e escalabilidade – Mantém o código modular e organizado.
+
 
 - Criar a pasta Services
 
