@@ -174,6 +174,10 @@ Declara uma <b>interface</b> chamada IAutorInterface.
 
 <img src="https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/02_Response_Model.png"/>
 
+#### Detalhes do código.
+
+https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/ResponseModel.cs
+
 
 
 
