@@ -16,6 +16,10 @@
 <p><a href="https://github.com/JosiTubaroski/Comunica_Service_Interface">03 - Comunicação entre Service e Interface</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Response_Model_Gen-rica">04 - Resposta Modelo - ResponseModel</a></p>
+</div> 
+
 
 ### Criando a ResponseModel.cs, que é a nossa Resposta Modelo.
 
