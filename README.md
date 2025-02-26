@@ -221,6 +221,16 @@ Vamos supor que essa classe seja usada em uma API para responder a uma requisiç
 
 A classe ResponseModel<T> é uma estrutura de resposta padronizada que melhora a <b>organização e legibilidade</b> da API. Ela permite que diferentes endpoints retornem respostas uniformes, tornando o consumo de API mais previsível e consistente.
 
+# Agora vamos criar a nossa Controllers
+
+<img src="https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/20250226_Criando_Controller.png"/>
+
+### O Controler será do tipo API
+
+<img src="https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/Controlers/02_Controler_API.png"/>
+
+
+
 
  
 
