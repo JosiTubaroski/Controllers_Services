@@ -24,6 +24,11 @@
 <p><a href="https://github.com/JosiTubaroski/AutorController">05 - Controller - AutorController</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Executar_Metodo_Listar_Autores/blob/main/README.md">06 - Executar o projeto e testar o metodo ListarAutores</a></p>
+</div> 
+
+
 
 
  
