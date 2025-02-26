@@ -36,7 +36,7 @@ A principal finalidade dos Services é criar uma camada intermediária entre os 
 
 <img src="https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/05_Menu_Interface.png"/>
 
-https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/AutorService.cs
+Veja o código da AutorService.cs 👉 https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/AutorService.cs
 
 # 🔍 Detalhamento do Código (AutorService)
 
@@ -131,7 +131,7 @@ Aqui, importamos:
 
 # IAutorInterface.cs
 
-https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/IAutorInterface.cs
+Veja o código da AutorInterface.cs 👉 https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/IAutorInterface.cs
 
 ### 🔹 O que esse código faz?
 
