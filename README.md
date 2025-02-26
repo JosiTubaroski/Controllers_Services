@@ -233,6 +233,10 @@ A classe ResponseModel<T> é uma estrutura de resposta padronizada que melhora a
 
 <img src="https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/Controlers/03_Criando_Autor_Controler.png"/>
 
+Veja o código da AutorController.cs 👉 https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/Controlers/AutorController.cs
+
+
+
 
 
 
