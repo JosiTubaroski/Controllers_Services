@@ -4,6 +4,10 @@
 
 <img src="https://github.com/JosiTubaroski/Controllers_Services/blob/main/img/01_Fx_Controller_Interface_Service_2.jpg"/>
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server">Service - AutorService</a></p>
+</div> 
+
 ### Qual a finalidade do Services em .NET8?
 
 No .NET 8, os Services são classes usadas para organizar a lógica de negócios da aplicação, separando responsabilidades e facilitando a manutenção do código. Eles geralmente contêm regras de negócio e interagem com Repositórios (Repository Pattern) para acessar os dados.
