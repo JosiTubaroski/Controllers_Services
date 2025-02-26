@@ -13,7 +13,7 @@
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Interface_Listar_Autor">03 - Comunicação entre Service e Interface</a></p>
+<p><a href="https://github.com/JosiTubaroski/Comunica_Service_Interface">03 - Comunicação entre Service e Interface</a></p>
 </div> 
 
 
